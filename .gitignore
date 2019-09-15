@@ -1,0 +1,4 @@
+.idea/
+src/flyttdata.egg-info/
+src/flyttdata/__pycache__/
+src/flyttdata/cli/__pycache__/
